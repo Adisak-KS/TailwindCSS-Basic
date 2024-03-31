@@ -643,6 +643,10 @@ video {
   width: auto;
 }
 
+.w-80 {
+  width: 20rem;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -653,6 +657,14 @@ video {
 
 .flex-col {
   flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
 }
 
 .rounded {
