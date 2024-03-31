@@ -13,3 +13,11 @@
     @apply text-white bg-orange-500 p-3;
   }
 }
+
+@layer utilities {
+  .text-red-500 {
+    color: #d60992;
+    font-size: 1.5rem;
+    font-weight: 500;
+  }
+}
